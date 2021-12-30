@@ -5,3 +5,5 @@
 [Weather Application](https://james-gpu.github.io/Weather-Application/index.html)
 
 ### Here is an example of what the application looks like
+
+![Weather Application Example](Images/WeatherApp.png)
